@@ -39,3 +39,24 @@ ISBN-10,ISBN-13,TITLE,SUBTITLE,AUTHORS,EDITION,PUBLISHER,PUBLICATION DATE,LANGUA
 0136788041,978-0136788041,Database Design for Mere Mortals,25th Anniversary Edition,Michael J Hernandez,4th,Addison-Wesley Professional,"December 17, 2020",en,640,Paperback
 1337627909,978-1337627900,Database Systems,"Design, Implementation, & Management",Carlos Coronel; Steven Morris,13th,Cengage Learning,"January 1, 2018",en,816,Hardcover
 0321774515,978-0321774514,Refactoring Databases,Evolutionary Database Design,Scott Ambler; Pramod Sadalage,1st,Addison-Wesley Professional,"March 3, 2006",en,384,Paperback
+1837635641,978-1837635641,Learn PostgreSQL,"Use, manage, and build secure and scalable databases with PostgreSQL 16",Luca Ferrari; Enrico Pirozzi,2nd,Packt Publishing,"October 31, 2023",en,744,Paperback
+1617296279,978-1617296277,"Unit Testing Principles, Practices, and Patterns","Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#",Vladimir Khorikov,1st,Manning,"January 14, 2020",en,304,Paperback
+1680500791,978-1680500790,Beyond Legacy Code,Nine Practices to Extend the Life (and Value) of Your Software,David Bernstein,1st,Pragmatic Bookshelf,"September 1, 2015",en,276,Paperback
+,979-8888651032,Pragmatic Unit Testing in Java with JUnit,,Jeff Langr,3rd,Pragmatic Bookshelf,"December 17, 2024",en,298,Paperback
+989359541X,978-9893595411,The Software Architect's Edge,Seven Mission-Critical Skills Needed to Become the Next Tech Superstar,Sebastian Wagner,1st,Sebastian Wagner,"November 13, 2024",en,175,Paperback
+1788836111,978-1788836111,Test-Driven Java Development,Invoke TDD principles for end-to-end application development,Alex Garcia; Viktor Farcic,2nd,Packt Publishing,"March 23, 2018",en,324,Paperback
+180323623X,978-1803236230,Test-Driven Development with Java,Create higher-quality software by writing tests first with SOLID and hexagonal architecture,Alan Mellor,1st,Packt Publishing,"January 13, 2023",en,348,Paperback
+161729893X,978-1617298936,"Good Code, Bad Code",Think like a software engineer,Tom Long,1st,Manning,"September 7, 2021",en,376,Paperback
+0137464401,978-0137464401,Code That Fits in Your Head,Heuristics for Software Engineering,Mark Seemann,1st,Addison-Wesley Professional,"November 15, 2021",en,408,Paperback
+0596802293,978-0596802295,The Art of Readable Code,Simple and Practical Techniques for Writing Better Code,Dustin Boswell; Trevor Foucher,1st,O'Reilly Media,"December 20, 2011",en,202,Paperback
+1617292508,978-1617292507,Re-Engineering Legacy Software,,Chris Birchall,1st,Manning,"May 9, 2016",en,232,Paperback
+1492075531,978-1492075530,Refactoring at Scale,Regaining Control of Your Codebase,Maude Lemaire,1st,O'Reilly Media,"November 17, 2020",en,243,Paperback
+,979-8312117219,Mastering the Art of Unit Testing,Unraveling the Secrets of Expert-Level Programming,Steve Jones,1st,Independently published,"February 25, 2025",en,504,Paperback
+8395185146,978-8395185144,Practical Unit Testing with JUnit and Mockito,,Tomasz Kaczanowski,1st,Tomasz Kaczanowski,"November 25, 2019",en,384,Paperback
+9365894603,978-9365894608,Solutions Architect Interview Guide,Mastering solutions architecture and interview preparation with real-world examples and expert insights,Ramakrishnan Vedanarayanan; Arun Ramakrishnan,1st,BPB Publications,"September 2, 2025",en,528,Paperback
+1633435857,978-1633435858,A Simple Guide to Retrieval Augmented Generation,,Abhinav Kimothi,1st,Manning Publications,"July 15, 2025",en,256,Paperback
+1098107969,978-1098107963,Designing Machine Learning Systems,An Iterative Process for Production-Ready Applications,Chip Huyen,1st,O'Reilly Media,"June 21, 2022",en,386,Paperback
+1633438120,978-1633438125,"""Looks Good To Me""",Constructive code reviews,Adrienne Braganza,1st,Manning,"January 7, 2025",en,352,Paperback
+1098103017,978-1098103019,Practical MLOps,Operationalizing Machine Learning Models,Noah Gift; Alfredo Deza,1st,O'Reilly Media,"October 19, 2021",en,458,Paperback
+1836200072,978-1836200079,LLM Engineer's Handbook,Master the art of engineering large language models from concept to production,Paul Iusztin; Maxime Labonne,1st,Packt Publishing,"October 22, 2024",en,522,Paperback
+,978-0321146533,Test Driven Development,By Example,Kent Beck,1st,Addison-Wesley Professional,"November 8, 2002",en,240,Paperback
