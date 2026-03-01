@@ -20,9 +20,10 @@ def read_urls(path: str | os.PathLike[str] = DEFAULT_URLS_FILE) -> set[str]:
 
 def main():
     urls = read_urls()
-    for url in urls:
-        print(url)
-    print(f"Total URLs: {len(urls)}")
+    for n, url in enumerate(urls, start=1):
+        print(f"{n:3}. {url}")
+    total = len(urls)
+    print(f"Total URLs: {total}")
 
 
 if __name__ == "__main__":
