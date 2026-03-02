@@ -1,13 +1,8 @@
 import os
 
-__version__ = "1.0.0"
+from scrapper.src.utils.helper import is_url_line
 
-DEFAULT_URLS_FILE = "list.txt"
-
-
-def _is_url_line(line: str) -> bool:
-    stripped = line.strip()
-    return bool(stripped) and not stripped.startswith("#")
+DEFAULT_URLS_FILE = "../../list.txt"
 
 
 def read_urls(path: str | os.PathLike[str] = DEFAULT_URLS_FILE) -> set[str]:
@@ -15,7 +10,7 @@ def read_urls(path: str | os.PathLike[str] = DEFAULT_URLS_FILE) -> set[str]:
         raise FileNotFoundError(f"File not found: {path}")
 
     with open(path, encoding="utf-8") as file:
-        return {line.strip() for line in file if _is_url_line(line)}
+        return {line.strip() for line in file if is_url_line(line)}
 
 
 def main():
