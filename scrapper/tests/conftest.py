@@ -4,6 +4,13 @@ import pytest
 
 
 def pytest_addoption(parser):
+    """
+    Adds a custom command-line option to pytest for toggling logging of test execution times.
+
+    :param parser: The pytest parser object used for adding custom command-line options.
+    :type parser: _pytest.config.argparsing.Parser
+    :return: None
+    """
     parser.addoption("--logtime", action="store_true", help="Log test time", default=False)
 
 
